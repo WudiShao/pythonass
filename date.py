@@ -1,7 +1,7 @@
 import csv
 
 ##PART A
-h = input("Please enter your filename: ").strip('\'')
+h = input("filename: ")
 
 def select_day():
     #h is the file name and m is the specific month
